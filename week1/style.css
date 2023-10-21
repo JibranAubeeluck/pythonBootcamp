@@ -1,0 +1,21 @@
+/* *{text-align: center;} */
+h1{
+    text-align: center;
+}
+h2 {
+    color: rgb(0, 255, 229);
+}
+h3{
+    font-size: 24px;
+    color: rgb(136, 26, 114);
+    text-align: center;
+}
+h4{
+   display: inline-block;
+}
+button{
+    background-color: rgb(232, 217, 217);
+}
+button:hover{
+    background-color: grey;
+}

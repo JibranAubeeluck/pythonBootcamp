@@ -1,0 +1,10 @@
+th{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    font-style: oblique;
+}
+
+.extralarge-fonts {
+    font-size: x-large;
+    font-weight: 300;
+}
